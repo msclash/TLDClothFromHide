@@ -1,5 +1,5 @@
 {
-    "Name": "Alternate_Leather",
+    "Name": "Askedal_ClothFromRabbitHide",
 	"RequiredGear": [{"Item":"GEAR_RabbitPeltDried","Count":1}],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0,
