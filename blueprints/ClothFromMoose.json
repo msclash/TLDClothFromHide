@@ -1,6 +1,6 @@
 {
-    "Name": "Askedal_ClothFromDeerHide",
-    "RequiredGear": [{"Item":"GEAR_LeatherHideDried","Count":1}],
+    "Name": "Askedal_ClothFromMooseHide",
+    "RequiredGear": [{"Item":"GEAR_MooseHideDried","Count":1}],
     "KeroseneLitersRequired": 0,
     "GunpowderKGRequired": 0,
     "RequiredTool": "",
@@ -9,8 +9,8 @@
     "RequiresLitFire": false,
     "RequiresLight": true,
     "CraftedResult": "GEAR_Cloth",
-    "CraftedResultCount": 8,
-    "DurationMinutes": 60,
+    "CraftedResultCount": 15,
+    "DurationMinutes": 80,
     "CraftingAudio": "PLAY_CraftingGeneric",
     "AppliedSkill" : "None",
     "ImprovedSkill" : "None"
